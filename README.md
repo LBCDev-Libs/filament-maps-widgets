@@ -3,7 +3,7 @@
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/lbcdev/filament-maps-widgets.svg?style=flat-square)](https://packagist.org/packages/lbcdev/filament-maps-widgets)
 [![Total Downloads](https://img.shields.io/packagist/dt/lbcdev/filament-maps-widgets.svg?style=flat-square)](https://packagist.org/packages/lbcdev/filament-maps-widgets)
 
-Interactive map widgets for Filament panels, built on top of [livewire-maps-core](https://github.com/Luinux81/livewire-maps-core) and [map-geometries](https://github.com/Luinux81/map-geometries).
+Interactive map widgets for Filament panels, built on top of [livewire-maps-core](https://github.com/LBCDev-Libs/livewire-maps-core) and [map-geometries](https://github.com/LBCDev-Libs/map-geometries).
 
 ## Installation
 
@@ -262,7 +262,7 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 
 This package is part of the LBCDev Maps Suite:
 
-- [livewire-maps-core](https://github.com/Luinux81/livewire-maps-core) - Core Livewire map component
-- [map-geometries](https://github.com/Luinux81/map-geometries) - Map geometry classes (Marker, Polyline, etc.)
-- [filament-maps-fields](https://github.com/Luinux81/filament-maps-fields) - Map form fields for Filament
-- [lbcdev-filament-maps-suite](https://github.com/Luinux81/lbcdev-filament-maps-suite) - Meta-package for all components
+- [livewire-maps-core](https://github.com/LBCDev-Libs/livewire-maps-core) - Core Livewire map component
+- [map-geometries](https://github.com/LBCDev-Libs/map-geometries) - Map geometry classes (Marker, Polyline, etc.)
+- [filament-maps-fields](https://github.com/LBCDev-Libs/filament-maps-fields) - Map form fields for Filament
+- [lbcdev-filament-maps-suite](https://github.com/LBCDev-Libs/lbcdev-filament-maps-suite) - Meta-package for all components
