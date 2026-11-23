@@ -2,6 +2,7 @@
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/lbcdev/filament-maps-widgets.svg?style=flat-square)](https://packagist.org/packages/lbcdev/filament-maps-widgets)
 [![Total Downloads](https://img.shields.io/packagist/dt/lbcdev/filament-maps-widgets.svg?style=flat-square)](https://packagist.org/packages/lbcdev/filament-maps-widgets)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/LBCDev-Libs/filament-maps-widgets)
 
 Interactive map widgets for Filament panels, built on top of [livewire-maps-core](https://github.com/LBCDev-Libs/livewire-maps-core) and [map-geometries](https://github.com/LBCDev-Libs/map-geometries).
 
