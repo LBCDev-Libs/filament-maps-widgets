@@ -5,6 +5,10 @@
 
 Interactive map widgets for Filament panels, built on top of [livewire-maps-core](https://github.com/LBCDev-Libs/livewire-maps-core) and [map-geometries](https://github.com/LBCDev-Libs/map-geometries).
 
+📖 [Browse the generated documentation on DeepWiki](https://deepwiki.com/LBCDev-Libs/filament-maps-widgets).
+
+**Compatibility:** Use the **1.x** release line with Filament 3 and the **2.x** release line with Filament 4. Confirm your PHP and Laravel versions satisfy the selected release's Composer constraints.
+
 ## Installation
 
 You can install the package via composer:
